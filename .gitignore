@@ -1,0 +1,8 @@
+# cache files
+**/__pycache__/**
+**/.vscode/**
+**/.virtual_documents/**
+**/.ipynb_checkpoints/**
+
+# dataset
+**/data/**
